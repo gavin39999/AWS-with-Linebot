@@ -20,7 +20,7 @@ Create a new channel 選擇Messaging API
 
 在Create 項目將基本訊息填上
 
-![image](https://user-images.githubusercontent.com/108290249/180768518-29cabb83-bdef-4694-aef0-cf280d8f3247.png)
+![image](https://user-images.githubusercontent.com/108290249/180777137-c7f383e1-86df-4a92-b062-95b4aacda34c.png)
 
 # Channel access token&Channel secret
 
