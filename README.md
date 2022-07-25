@@ -24,7 +24,7 @@ Create a new channel 選擇Messaging API
 
 # Channel access token&Channel secret
 
-找到Channel access token與Channel secret
+找到Channel access token與Channel secret 這兩個會是一連串的數字與英文的亂碼
 
 ![image](https://user-images.githubusercontent.com/108290249/180769347-2f73a001-0f6d-4a50-af08-82091ff89252.png)
 
