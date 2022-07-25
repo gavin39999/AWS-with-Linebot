@@ -50,7 +50,7 @@ Create 一個 Lambda function 會是以python為主
 
 # Environment variables
 
-找到Environment variables 並填上步驟5.的Channel access token與Channel secret
+找到Environment variables 並填上前面步驟的Channel access token與Channel secret
 
 ![image](https://user-images.githubusercontent.com/108290249/180773029-18dd9f36-eacf-4391-ab9b-9f984b950284.png)
 
