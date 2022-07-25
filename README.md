@@ -46,7 +46,7 @@ Create a new channel 選擇Messaging API
 
 Create 一個 Lambda function 會是以python為主
 
-![image](https://user-images.githubusercontent.com/108290249/180772721-b4972cba-45cc-4db5-acae-b5f9ee951160.png)
+![image](https://user-images.githubusercontent.com/108290249/180777276-405e14ba-dbdc-4e76-b78a-853e4afab92b.png)
 
 # Environment variables
 
