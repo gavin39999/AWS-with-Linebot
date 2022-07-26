@@ -5,6 +5,9 @@
 
 在AWS上運用Lambda+API Gateway 實現Line機器人的實作
 
+程式碼放在lambda-fuction
+layer 在 Test1
+
 # Line Developers
 首先 在Line Developers log in 自己的Line帳號 如果沒有請去註冊一個
 
